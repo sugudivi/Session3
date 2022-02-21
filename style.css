@@ -1,0 +1,24 @@
+h1{
+    font:300;
+    font-size: xx-large;
+    margin-bottom: 100px;
+    margin: 100px;
+    display: inline-block;
+    background-color: lightgreen;
+    border: 2px solid darkblue;
+    padding: 30px 40px;
+}
+h2{
+    font: 300;
+    font-size: xx-large;
+    margin-bottom: 100px;
+    margin: 100px;
+    background-color: bisque;
+    border: 2px solid darkmagenta;
+    display: inline-block;
+    padding: 30px 40px;
+}
+p{
+    font-size: x-large;
+}
+
